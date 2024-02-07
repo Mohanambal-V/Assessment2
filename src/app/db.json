@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Mobile",
+      "price": "1000",
+      "image": "https://images.gizbot.com/webp/ph-big/2024/01/moto-g24-power_170667417300.jpg",
+      "Description": "A mobile is a wireless handheld device that allows users to make and receive calls."
+    },
+    {
+      "id": "2",
+      "name": "Airpods",
+      "price": "500",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MME73?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1632861342000",
+      "Description": "A airpods is a wireless handheld device that allows users to make and receive calls."
+    },
+    {
+      "id": "3",
+      "name": "Laptop",
+      "price": "5000",
+      "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bGFwdG9wc3xlbnwwfHwwfHx8MA%3D%3D",
+      "Description": "A mobile is a wireless handheld device that allows users to make and receive calls."
+    },
+    {
+      "id": "4",
+      "name": "ipad",
+      "price": "7000",
+      "image": "https://images.unsplash.com/photo-1587033411391-5d9e51cce126?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aXBhZHxlbnwwfHwwfHx8MA%3D%3D",
+      "Description": "A mobile phone is a wireless handheld device that allows users to make and receive calls."
+    }
+  ]
+}
